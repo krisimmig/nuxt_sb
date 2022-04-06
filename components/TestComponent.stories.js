@@ -13,6 +13,3 @@ const Template = (args, { argTypes }) => ({
 
 export const Primary = Template.bind({});
 Primary.args = { testProp: "Foo" };
-
-export const Secondary = Template.bind({});
-Secondary.args = { testProp: "Bar" };
