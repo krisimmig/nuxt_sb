@@ -1,0 +1,16 @@
+{
+  "name": "nuxt_sb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "nuxt": "^2.15.8"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "storybook": "nuxt storybook"
+  },
+  "devDependencies": {
+    "@nuxtjs/storybook": "^4.3.0"
+  }
+}
